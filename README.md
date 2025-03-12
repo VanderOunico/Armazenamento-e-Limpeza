@@ -1,5 +1,5 @@
 
-## Readme do Projeto: Cadastro de Nomes
+## Projeto: Cadastro de Nomes
 
 
 Este projeto em C# utiliza o Windows Forms para criar uma aplicação simples de cadastro de nomes. O programa permite que o usuário insira até três nomes em uma lista. O programa exibe mensagens informativas sobre o estado do cadastro e também oferece a possibilidade de visualizar ou limpar os nomes armazenados.
